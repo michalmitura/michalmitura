@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michal Mitura
 - 👀 I’m interested in Data Analytics and ML
-- 🌱 I’m currently learning Time Series Analysis, ML and Dashboards
+- 🌱 I’m currently learning Time Series Analysis, ML and creating Dashboards
 - 📫 How to reach me: email: michmit1997@gmail.com
 
 <!---
